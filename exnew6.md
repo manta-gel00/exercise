@@ -1,0 +1,1 @@
+This is a file to be renamed and then deleted.
