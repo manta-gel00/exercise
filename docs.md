@@ -6,4 +6,5 @@ UPDATE: Since Feb 12th 2021 it can also knit awesome socks.
 
 UPDATE: Since Feb 20th 2021 it can no longer knit socks.
 
-UPDATE: We will reintroduce the option to make socks.
+UPDATE: We will reintroduce the option to make socks!!!
+
