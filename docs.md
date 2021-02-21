@@ -8,3 +8,6 @@ UPDATE: Since Feb 20th 2021 it can no longer knit socks.
 
 UPDATE: We will reintroduce the option to make socks!!!
 
+The knitting machine requires [insert requirements]
+
+The machine speaks 72 languages.
