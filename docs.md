@@ -10,4 +10,4 @@ UPDATE: We will reintroduce the option to make socks!!!
 
 The knitting machine requires [insert requirements]
 
-The machine speaks 72 languages.
+The machine speaks 73 languages.
